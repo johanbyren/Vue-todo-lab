@@ -1,4 +1,4 @@
-# vue-amplify-lab
+# vue-lab
 
 ## Project setup
 ```
